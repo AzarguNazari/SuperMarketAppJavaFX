@@ -1,0 +1,27 @@
+.errorLable{
+    -fx-background-color: #FF4500;
+    -fx-padding: 5px;
+    -fx-border-radius: 5px;
+}
+
+.errorBorder{
+    -fx-border-color: #66CD00;
+    -fx-border-insets: 3;
+    -fx-border-width: 3px;
+    -fx-border-style: solid;
+}
+
+.button{
+    -fx-cursor: hand;
+    -fx-border-radius: 10px;
+    -fx-background-color: #ccc;
+}
+
+.input{
+    -fx-padding: 5px;
+    -fx-border-radius: 20px;
+}
+
+.signup{
+    -fx-background-color: #66CD00;
+}

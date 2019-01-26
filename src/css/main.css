@@ -1,0 +1,40 @@
+*{
+dark-primary-color    : #00796B; 
+default-primary-color : #009688; 
+light-primary-color  : #B2DFDB; 
+text-primary-color    :#FFFFFF; 
+accent-color          : #4CAF50; 
+primary-text-color   : #212121; 
+secondary-text-color : #757575; 
+divider-color         : #BDBDBD; 
+}
+
+.aboutPicture {
+    -fx-background-color: #eee;
+}
+
+.optionButtons{
+    -fx-cursor: hand;
+    -fx-border-radius: 10px;
+    -fx-background-color: #222;
+}
+
+.optionButtons:hover{
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+}
+
+.roundedButton{
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: #222;
+}
+
+.button{
+    -fx-cursor: hand;
+}
+
+#body {
+    -fx-background-color: #fff;
+}
+

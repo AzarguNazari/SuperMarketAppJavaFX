@@ -1,0 +1,32 @@
+
+.optionPane {
+    -fx-background-color: #66CD00;
+    -fx-background-radius: 20px;
+}
+
+.input{
+    -fx-font-size: 20px;
+    -fx-text-fill: #222;
+    -fx-background-radius: 10px;
+    -fx-padding: 6 6 6 6;
+}
+
+.specialButton{
+    -fx-background-color: #222;
+    -fx-text-fill: #eee;
+    -fx-background-radius: 20px;
+    -fx-font-size: 20px;
+    -fx-padding: 10 10 10 10;
+}
+
+.errorCaution{
+    -fx-border-color: #ff3300;
+    -fx-border-width: 5px;
+    -fx-border-radius: 20px;
+}
+
+.successAlert{
+    -fx-border-color: #00d400;
+    -fx-border-width: 5px;
+    -fx-border-radius: 20px;
+}
